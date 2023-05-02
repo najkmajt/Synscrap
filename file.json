@@ -12,7 +12,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://rarbg.to",
+    "base_url": "https://rarbg.to/",
     "fallback_urls": [],
     "response_type": "json",
     "time_to_wait_between_each_request_ms": 300,
